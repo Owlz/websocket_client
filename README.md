@@ -8,7 +8,7 @@ Just a silly script for quickly interacting with websockets in python. It's sync
 It's python package installable:
 
 ```bash
-pip install .
+pip install git+https://github.com/Owlz/websocket_client.git
 ```
 
 # Running
