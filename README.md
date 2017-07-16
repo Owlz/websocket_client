@@ -1,3 +1,6 @@
+# Python >= 3.5!
+This requires Python >= 3.5
+
 # Overview
 Just a silly script for quickly interacting with websockets in python. It's synchronous, and for the moment re-creates the socket each time. So it's not really useful in production, but if you need a quick shell without a headache it should do fine.
 
